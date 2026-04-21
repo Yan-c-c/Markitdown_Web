@@ -6,6 +6,10 @@ A local web app built on top of `MarkItDown`.
 
 The repository is now organized as a runnable web application with one clear goal: convert local files or URLs into clean Markdown, then preview, copy, and download the result directly in the browser.
 
+![image-20260422011632260](https://ycc123666.oss-cn-beijing.aliyuncs.com/img/image-20260422011632260.png)
+
+![image-20260422011655584](https://ycc123666.oss-cn-beijing.aliyuncs.com/img/image-20260422011655584.png)
+
 ## Features
 
 - Single-file conversion
