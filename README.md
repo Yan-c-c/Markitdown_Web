@@ -1,6 +1,6 @@
 # MarkItDown_Web
 
-[English](./README.md) | [中文](./README.zh-CN.md)
+[English](./README.md) | [简体中文](./README.zh-CN.md)
 
 A local web app built on top of `MarkItDown`.
 
